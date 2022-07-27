@@ -9,3 +9,33 @@ img {
   width: 100%;
   display: block;
 }
+
+/* MAIN */
+h1 {
+  text-align: center;
+  margin-block: 30px;
+}
+.strikeout {
+  text-decoration: line-through;
+}
+.box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+.movie_data {
+  margin-left: 10px;
+}
+.movie_data p {
+  padding-block: 5px;
+  font-size: 1.2rem;
+}
+.locandina {
+  width: 300px;
+}
+.horrible_truth {
+  margin-top: 40px;
+}
+.horrible_truth span {
+  color: red;
+}
